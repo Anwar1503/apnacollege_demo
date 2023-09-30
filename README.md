@@ -1,4 +1,4 @@
 # apnacollege_demo
-This is my first repository.
+This is my First Repository.
 <br>
 Author-Anwar Basha
